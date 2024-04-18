@@ -7,9 +7,3 @@
 * `Employee` slice ga yangi employee ni qoshing
 * Q'oshilgan va o'zgartirilgan employee la bilan Marshal qiling yangi `employees_new.json` file ga yozing
 * Code ni `github` ga joylang
-
-
-
-
-
-
